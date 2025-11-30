@@ -1,0 +1,6 @@
+ai-agents-challenge@ /home/augusto/Documents/ai-agents-challenge
+├── @types/node@24.10.1
+├── groq-sdk@0.37.0
+├── ts-node@10.9.2
+└── typescript@5.9.3
+
